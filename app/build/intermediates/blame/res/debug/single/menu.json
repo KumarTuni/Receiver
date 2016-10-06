@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Rohin\\AndroidStudioProjects\\Receiver\\app\\build\\intermediates\\res\\merged\\debug\\menu\\another.xml",
+        "source": "C:\\Users\\Rohin\\AndroidStudioProjects\\Receiver\\app\\src\\main\\res\\menu\\another.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohin\\AndroidStudioProjects\\Receiver\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Rohin\\AndroidStudioProjects\\Receiver\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
